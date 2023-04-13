@@ -16,7 +16,19 @@ sh run.sh
 
 ## 使用方法
 
-已删除
+将以下订阅链接导入相应客户端即可。链接中大部分为 SS 协议节点，少量 Vmess, Trojan ,SSR 协议节点，建议选择协议支持完整的客户端。
+
+- [多协议Base64编码](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity)
+- [Clash Proxy Provider](https://github.com/alanbobs999/TopFreeProxies/raw/master/Eternity.yml)
+
+另有国内加速链接：
+
+- [多协议Base64编码](https://raw.fastgit.org/alanbobs999/TopFreeProxies/main/Eternity)
+- [Clash Proxy Provider](https://raw.fastgit.org/alanbobs999/TopFreeProxies/master/Eternity.yml)
+
+>`Clash Proxy Provider`只包含节点内容，需要自己选择配置文件，仓库`./update/provider/`中是我使用的[配置文件](https://github.com/alanbobs999/TopFreeProxies/blob/master/update/provider/config.yml)和相应`proxy-provider`，当然也可使用订阅转换工具自行转换。
+>
+>自用在线订阅转换网址：[sub-web-modify](https://sub.v1.mk/)
 
 ## 所有节点
 合并节点总数: `1282`
